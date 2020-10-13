@@ -5,7 +5,7 @@ import java.io.*;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class BufferStream
+public class MyApp
 {
     public static void main(String[] args)
     {
